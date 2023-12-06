@@ -7,8 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m working on my personal music related site;
+- 🔭 I’m attending a Front-End developign 2-year course;
 - 🌱 I’m currently learning PHP, JS, and advanced web developing in general;
-- 😄 Pronouns: Sto / Cazzo;
-- 👉 Do you know who salute you?: [_**HIM**_](http://www.saichitisaluta.it/)
+
 
