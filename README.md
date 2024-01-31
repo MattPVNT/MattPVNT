@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m attending a Front-End developign 2-year course;
+- 🔭 I’m attending a Front-End developing 2-year course;
 - 🌱 I’m currently learning PHP, JS, and advanced web developing in general;
 
 
